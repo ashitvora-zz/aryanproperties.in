@@ -1,0 +1,90 @@
+<modify-entry
+   name="garden.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/garden.jpg.svn-base"
+   name=".svn/prop-base/svn-RUHrNV"/>
+<readonly
+   name=".svn/prop-base/garden.jpg.svn-base"/>
+<modify-entry
+   committed-rev="51"
+   committed-date="2012-05-23T14:51:17.830884Z"
+   name="garden.jpg"
+   last-author="cbsejpal"
+   uuid="3ab90f52-9a10-4aae-95d2-3e8e55bc0f30"/>
+<modify-wcprop
+   name="garden.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/heritage-farm-website/!svn/ver/51/trunk/images/hf/garden.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="garden.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="55"/>
+<cp-and-translate
+   dest="garden.jpg"
+   name=".svn/tmp/text-base/garden.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/garden.jpg.svn-base"
+   name=".svn/tmp/text-base/garden.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/garden.jpg.svn-base"/>
+<modify-entry
+   name="garden.jpg"
+   checksum="7a01d0910ac7ebb80d67049d591b41ee"/>
+<modify-entry
+   name="garden.jpg"
+   text-time="working"/>
+<modify-entry
+   name="garden.jpg"
+   working-size="working"/>
+<modify-entry
+   name="family.jpg"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/family.jpg.svn-base"
+   name=".svn/prop-base/svn-Wc5O5m"/>
+<readonly
+   name=".svn/prop-base/family.jpg.svn-base"/>
+<modify-entry
+   committed-rev="51"
+   committed-date="2012-05-23T14:51:17.830884Z"
+   name="family.jpg"
+   last-author="cbsejpal"
+   uuid="3ab90f52-9a10-4aae-95d2-3e8e55bc0f30"/>
+<modify-wcprop
+   name="family.jpg"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/svn/heritage-farm-website/!svn/ver/51/trunk/images/hf/family.jpg"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="family.jpg"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="55"/>
+<cp-and-translate
+   dest="family.jpg"
+   name=".svn/tmp/text-base/family.jpg.svn-base"/>
+<mv
+   dest=".svn/text-base/family.jpg.svn-base"
+   name=".svn/tmp/text-base/family.jpg.svn-base"/>
+<readonly
+   name=".svn/text-base/family.jpg.svn-base"/>
+<modify-entry
+   name="family.jpg"
+   checksum="21d3c0df566f1af6b438bd1048c19bf4"/>
+<modify-entry
+   name="family.jpg"
+   text-time="working"/>
+<modify-entry
+   name="family.jpg"
+   working-size="working"/>
